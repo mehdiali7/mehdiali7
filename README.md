@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Mehdi
-- 👨‍🎓 I’m a sophomore at NED University studying computer systems engineering 
-- 👨‍💻 I’m a python developer and eager to learn more in programming domain
+- 👨‍🎓 Pursuing Computer Information Systems Engineering degree from NED-UET 
+- 👨‍💻 Trying to learn programming and system engineering
 - 📬 You can contact me via email, available at profile
 
 <!---
