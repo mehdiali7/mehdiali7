@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Mehdi
 - 👨‍🎓 Pursuing Computer Information Systems Engineering degree from NED-UET 
-- 👨‍💻 Trying to learn programming and system engineering
+- 👨‍💻 Trying to learn programming, networking, and systems engineering
 - 📬 You can contact me via email, available at profile
 
 <!---
